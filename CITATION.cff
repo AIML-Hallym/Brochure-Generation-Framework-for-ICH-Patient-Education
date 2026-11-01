@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below. The paper reference will be added on publication."
+title: "Brochure Generation Framework for ICH Patient Education"
+type: software
+authors:
+  - name: "AIML Lab, Hallym University"
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+repository-code: "https://github.com/AIML-Hallym/Brochure-Generation-Framework-for-ICH-Patient-Education"
+keywords:
+  - intracranial hemorrhage
+  - patient education
+  - large language models
+  - health literacy

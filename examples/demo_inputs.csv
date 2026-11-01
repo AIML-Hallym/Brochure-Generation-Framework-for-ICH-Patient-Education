@@ -1,0 +1,7 @@
+case_id,age,sex,subtypes,location,volume_ml,traumatic,dataset
+1,67,M,IPH,left basal ganglia,18,0,demo
+2,52,F,SAH,cistern,,0,demo
+3,74,F,SDH,right frontal convexity,22,1,demo
+4,9,M,EDH,left temporal,12,1,demo
+5,45,M,"IPH,IVH",thalamus,9,0,demo
+6,31,F,"IPH,SAH",right parietal,6,1,demo

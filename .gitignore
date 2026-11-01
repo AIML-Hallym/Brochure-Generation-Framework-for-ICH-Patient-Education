@@ -1,0 +1,12 @@
+# generated
+outputs/
+assets/images/
+assets/fonts/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# local settings and secrets
+.env
+.venv/
+venv/
